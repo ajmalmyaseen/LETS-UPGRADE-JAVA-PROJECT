@@ -3,7 +3,7 @@ public class Palindrome{
     public static void main(String[] args) {
         int reverse=0;
 		Scanner sc=new Scanner(System.in);
-        
+        System.out.println("Enter number: ");
         int original=sc.nextInt();
         int temp=original;
 
