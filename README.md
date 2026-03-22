@@ -1,4 +1,14 @@
 # LETS-UPGRADE-JAVA-PROJECT
 
-I have done 3 projects given. (d-3)
-not sure about the d-5 project(if there is any)
+This repository contains simple Java console programs created as practice exercises.
+
+## Programs
+- `Calc.java` - an interactive calculator with input validation, multiple operations, and repeat support.
+- `Divide.java` - prints numbers divisible by 23 in a given range.
+- `palindrome.java` - palindrome-related practice program.
+
+## Run the calculator
+```bash
+javac Calc.java
+java Calc
+```
